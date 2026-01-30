@@ -1,0 +1,10 @@
+[package]
+name = "ModsToYou-web"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rocket = "0.5.1"
+surrealdb = "2.6.0"
+tauri = "2.9.5"
+yew = "0.22.0"
